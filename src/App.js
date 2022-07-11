@@ -15,7 +15,6 @@ function App() {
       <p className="firstPara">This is another paragraph</p>
       <SongList />
 
-
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
