@@ -15,15 +15,14 @@ import reportWebVitals from './reportWebVitals';
 // // ]);
 // // const myDiv = React.createElement("div", null, [p1, ul, ul2]);
 
-
 // //VERSION 2 - using JSX
-// const p1 = <p style={{background: "#ff0000", "font-size": "14px"}} >hows it going</p>;
+// const p1 = <p style={{ background: "#ff0000", "font-size": "14px" }} >hows it going</p>;
 // const ul = <ul className="firstList">
-//       <li>first</li>
-//       <li>second</li>
-//     </ul>
-//   const myLabel = <label htmlFor="name">Enter yout name</label> 
-// const myInput = <input type = "text" id="name" />
+//   <li>first</li>
+//   <li>second</li>
+// </ul>
+// const myLabel = <label htmlFor="name">Enter yout name</label>
+// const myInput = <input type="text" id="name" />
 
 // const twoParagraphs = <div><p>para1</p><para>para2</para></div>
 
@@ -54,7 +53,6 @@ import reportWebVitals from './reportWebVitals';
 
 // const root = ReactDOM.createRoot(document.getElementById('root'));                      
 // root.render(ul, document.getElementById("root"));
-
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
